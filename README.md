@@ -43,7 +43,7 @@ Tools Used: Excel (Pivot Tables)
 
 ### Sales Reports:
 #### 1) Customer Performance Report 
-https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/Customer_Performance_Report.pdf
+https://github.com/NK-TheAnalyst/Excel-Sales_Finance-Analytics/blob/main/customers_performance_report.pdf
 #### 2) Market Performance Vs Target Report
 https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/Market_Vs_Target%20Report.pdf
 
